@@ -19,3 +19,7 @@ console.log("i said go");
 console.log(bal);
 
 console.log("final commit");
+ function age(){
+    console.log(age);
+ }
+ age();
