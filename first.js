@@ -1,5 +1,5 @@
 const name ="ravi";
-const age = 23;
+const age = 50;
 const bal =200;
 
 console.log(name);
