@@ -16,3 +16,6 @@ function updatebal(){
 }
 updatebal();
 console.log("i said go");
+console.log(bal);
+
+console.log("final commit");
