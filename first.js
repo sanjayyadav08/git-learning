@@ -14,3 +14,4 @@ console.log("hello");
 function updatebal(){
     bal += 20;
 }
+updatebal();
