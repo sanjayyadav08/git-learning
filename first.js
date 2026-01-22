@@ -1,5 +1,5 @@
 const name ="ravi";
-const age = 23;
+const age = 50;
 const bal =200;
 
 console.log(name);
@@ -23,3 +23,7 @@ console.log("final commit");
     console.log(age+val);
  }
  age(5);
+ function showname(){
+    console.log(name);
+ }
+ showname();
