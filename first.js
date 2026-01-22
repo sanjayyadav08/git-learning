@@ -16,3 +16,5 @@ function updatebal(){
 }
 updatebal();
 console.log(bal);
+
+console.log("final commit");
