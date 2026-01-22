@@ -9,3 +9,8 @@ function bal(){
 }
 bal();
 console.log("hello world!");
+
+console.log("hello");
+function updatebal(){
+    bal += 20;
+}
