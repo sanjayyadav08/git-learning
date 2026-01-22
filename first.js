@@ -23,3 +23,7 @@ console.log("final commit");
     console.log(age);
  }
  age();
+ function showname(){
+    console.log(name);
+ }
+ showname();
