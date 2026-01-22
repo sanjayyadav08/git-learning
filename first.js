@@ -15,3 +15,4 @@ function updatebal(){
     bal += 20;
 }
 updatebal();
+console.log(bal);
