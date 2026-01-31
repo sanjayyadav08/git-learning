@@ -8,3 +8,7 @@ const footer = "change in footer";
 console.log(footer);
  
 console.log("latest version update");
+
+
+// bugfix
+console.log("bug fixed");
