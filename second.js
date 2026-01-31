@@ -6,3 +6,5 @@ console.log("login");
 
 const footer = "change in footer";
 console.log(footer);
+ 
+console.log("latest version update");
